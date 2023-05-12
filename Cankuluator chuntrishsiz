@@ -7,7 +7,7 @@ def multiply(x, y):
     return x * y
 def divide(x, y):
     return x / y
-print("Select operation.")
+print("Birini tanlang.")
 print("1.Qo'shish")
 print("2.Ayirish")
 print("3.Ko'paytirish")
